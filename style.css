@@ -53,14 +53,5 @@ body {
 
 .btn:hover {
     background-color: rebeccapurple;
-}
+} 
 
-[class*="col-"] {
-  float: left;
-  padding: 10px;
-}
-
-/* for mobile  */
-[class*="col-"] {
-  width: 100%;
-}
